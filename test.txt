@@ -1,7 +1,2 @@
 C
 C++
-Python
-Swift
-Ruby
-Go
-Kotlen
