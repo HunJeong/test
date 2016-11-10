@@ -1,4 +1,7 @@
 C
 C++
+JAVA
+Javascript
+JSP
 Python
 Ruby
